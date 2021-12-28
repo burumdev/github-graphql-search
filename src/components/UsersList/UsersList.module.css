@@ -1,0 +1,28 @@
+
+.UsersList {
+    width: 100%;
+	padding: 1rem 0;
+}
+
+.UsersListLoading {
+	min-height: 120px;
+	display: flex;
+	justify-content: center;
+	align-items: center;	
+}
+
+.UsersList ul {
+	min-height: 120px;
+	display: grid;
+	grid-template-columns: repeat(5, [col-start] 1fr);
+	grid-gap: 48px;
+	justify-items: center;
+}
+
+.UsersList li {
+	display: inline-block;
+	width: 120px;
+	height: 120px;
+	text-align: center;
+	cursor: pointer;
+}

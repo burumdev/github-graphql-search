@@ -1,0 +1,8 @@
+
+.Paginator {
+	height: 30px;
+	display: flex;
+	justify-content: center;
+	font-size: 29px;
+	margin: 0 auto;
+}

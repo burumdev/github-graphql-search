@@ -1,0 +1,30 @@
+
+.Button {
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	cursor: pointer;
+	padding: 0.1rem 2rem;
+	font-size: 1.2rem;
+}
+
+.ButtonFullHeight {
+	height: 100%;
+	padding-top: 0;
+	padding-bottom: 0;
+}
+
+.ButtonTransparentBox {
+	background-color: transparent;
+	color: #000;
+	padding: 0 0.4rem;
+	border: 0;
+}
+
+.ButtonHalfOpacity {
+	opacity: 0.5;
+}
+
+.ButtonHidden {
+	visibility: hidden;
+}

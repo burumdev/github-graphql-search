@@ -1,0 +1,11 @@
+
+.Input {
+	font-size: 1.2rem;
+	padding: 0.1em 1em;
+}
+
+.InputFullHeight {
+	height: 100%;
+	padding-top: 0;
+	padding-bottom: 0;
+}

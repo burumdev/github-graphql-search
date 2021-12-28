@@ -1,0 +1,10 @@
+
+.VerticalListItem {
+	display: flex;
+	justify-content: space-between;
+    padding: 0.5rem 2rem;
+}
+
+.VerticalListItemClickable {
+	cursor: pointer;
+}

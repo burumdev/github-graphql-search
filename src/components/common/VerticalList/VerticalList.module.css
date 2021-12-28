@@ -1,0 +1,19 @@
+
+.VerticalListHeading {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	height: 72px;
+	padding: 1rem 0;
+}
+
+.VerticalListLoading {
+	min-height: 120px;
+	display: flex;
+	justify-content: center;
+	align-items: center;	
+}
+
+.VerticalList ul {
+	min-height: 120px;
+}

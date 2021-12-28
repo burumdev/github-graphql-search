@@ -1,0 +1,24 @@
+
+.Loading {
+	margin: auto;
+}
+
+.LoadingHuge {
+	width: 512px;
+}
+
+.LoadingBig {
+	width: 128px;
+}
+
+.LoadingNormal {
+	width: 64px;
+}
+
+.LoadingSmall {
+	width: 32px;
+}
+
+.LoadingTiny {
+	width: 16px;
+}
